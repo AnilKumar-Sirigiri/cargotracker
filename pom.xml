@@ -230,11 +230,11 @@
     </profiles>
          <distributionManagement>
     <snapshotRepository>
-      <id>nexus</id>
+      <id>nexusrepo</id>
       <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
     <repository>
-      <id>nexus</id>
+      <id>nexusrepo</id>
       <url>http://localhost:8081/nexus/content/repositories/releases/</url>
     </repository>
   </distributionManagement>
